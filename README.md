@@ -45,7 +45,7 @@ Follow the steps below to get a local copy of the project up and running:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-website.git
+   git clone https://github.com/your-username/eshop.git
    ```
 
 2. Navigate to the project directory:
